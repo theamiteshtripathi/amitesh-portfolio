@@ -8,7 +8,7 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.mjs
-    siteTitle: `The Amitesh Tripathi`,
+    siteTitle: `Amitesh Tripathi`,
     siteTitleAlt: `Amitesh Tripathi - Data Engineer - Portfolio Website`,
     siteHeadline: `Amitesh Tripathi - Data Engineer - Portfolio Website`,
     siteUrl: `https://theamiteshtripathi.com`,
